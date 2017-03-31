@@ -1,11 +1,11 @@
 # Site settings
-title: "Jekyll template"
-url: "//ihavee.github.io"
+title: "H!Grid 技术博客"
+url: "//blog.higrid.net"
 paginate: 5
 author:
-    name: Havee
+    name: HiGrid
     github:
-    email:
+    email: webmaster@higrid.net
     gitcafe:
     twitter:
     facebook:
@@ -17,7 +17,7 @@ rss_path: /rss.xml
 # Build settings
 kramdown:
     input: GFM
-permalink: /:categories/:year-:month/:title.html
+permalink: /:categories/:year-:month-:title.html
 gems: [jekyll-paginate]
 exclude: [Gemfile, Gemfile.lock, qrsync, Rakefile, docker-compose.yml]
 assets_path: /assets

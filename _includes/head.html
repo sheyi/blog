@@ -15,6 +15,12 @@
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.assets_path }}/images/apple-touch-icon-180x180.png">
 
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html,'' }}">
+
+<link href="//cdn.bootcss.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
   <link rel="stylesheet" href="{{ site.assets_path }}/css/style.css" media="all">
 
   <!-- atom & rss feed -->
@@ -26,8 +32,8 @@
   {% if site.webmaster.bing.verify %}<meta name="msvalidate.01" content="{{ site.webmaster.bing.verify }}" />{% endif %}
 
   <script>
-    var domain = "havee.me";
-    var current = ["www.havee.me", "hae.coding.me"];
+    var domain = "higrid.net";
+    var current = ["blog.higrid.net", "sheyi.coding.me"];
     for ( var i = 0; i < current.length; i++ ) {
       if ( document.location.host == current[i] ) {
         document.location.href = "\/\/" + domain + this.location.pathname;
