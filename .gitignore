@@ -1,8 +1,6 @@
 _site
-Gemfile.lock
-!.gitkeep
 .sass-cache
+.jekyll-metadata
+.vscode
+.idea
 .DS_Store
-.Spotlight-v100
-qrsync
-_qiniu.json
