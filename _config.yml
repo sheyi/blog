@@ -7,23 +7,23 @@
 
 # Site settings
 title: HiGrid 博客
-brief-intro: We try to change the world of component vendors by embracing free & open standards like jQuery, Theme Roller, jQuery UI. We are combining that with reliability and amazing customer support, where the guys who wrote the products are the ones you are talking with
+brief-intro: HiGrid is one of the best jQuery grid plugin!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.higrid.net" # the base hostname & protocol for your site
 
 permalink: /:year-:month-:day-:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
-dribbble_username:
+#twitter_username: gaohaoyang126
+# facebook_username: gaohaoyang.water
+github_username:  sheyi
+email: webmaster@higrid.net
+# weibo_username: 3115521wh
+# zhihu_username: gaohaoyang
+# linkedIn_username: gaohaoyang
+# dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: H!Grid 博客
 
 # comments
 # two ways to comment, only choose one, and use your own short name
