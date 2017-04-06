@@ -58,3 +58,8 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+
+
+sass:
+    sass_dir: _sass
+    style: :compressed
