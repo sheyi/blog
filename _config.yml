@@ -11,7 +11,7 @@ brief-intro: HiGrid is one of the best jQuery grid plugin!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.higrid.net" # the base hostname & protocol for your site
 
-permalink: /:year-:month-:day-:title/
+permalink: /php-:year-:month-:day-:title/
 
 # other links
 #twitter_username: gaohaoyang126
@@ -35,7 +35,7 @@ disqus_shortname: #gaohaoyang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-#baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+baidu_tongji_id: 3e70b3150446732812b3ec8ac30e955a
 #google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
